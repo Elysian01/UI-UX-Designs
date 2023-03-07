@@ -1,6 +1,10 @@
 # UI-UX-Designs
 
-![](https://github.com/Elysian01/UI-UX-Designs/imgs/Rear%20Bikes%20GIF.gif)
+![Bikes UI/UX](./imgs/Rear%20Bikes%20Designs.png)
+
+![Furniture Store UI/UX](./imgs/Maynooth%20Furniture%20DesktopView.png)
+
+![Furniture Store UI/UX](./imgs/Maynooth%20Furniture%20MobileView.png)
 
 ### Interface Inspirations
 
